@@ -1,0 +1,16 @@
+    [
+        "title" => "Joke API",
+        "url" => "https://ashub.rf.gd/joke",
+        "description" => "Get a random joke."
+    ],
+    [
+        "title" => "Fact API",
+        "url" => "https://ashub.rf.gd/fact",
+        "description" => "Fetch an interesting fact."
+    ],
+    [
+        "title" => "Bypasser",
+        "url" => "https://ashub.rf.gd/bypass",
+        "description" => "Bypass link shorteners and ads."
+    ]
+];
